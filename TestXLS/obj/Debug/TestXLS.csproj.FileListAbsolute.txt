@@ -1,0 +1,7 @@
+C:\Users\joao.delgado\Desktop\TestXLS\TestXLS\bin\Debug\TestXLS.exe.config
+C:\Users\joao.delgado\Desktop\TestXLS\TestXLS\obj\Debug\TestXLS.csprojResolveAssemblyReference.cache
+C:\Users\joao.delgado\Desktop\TestXLS\TestXLS\bin\Debug\TestXLS.exe
+C:\Users\joao.delgado\Desktop\TestXLS\TestXLS\bin\Debug\TestXLS.pdb
+C:\Users\joao.delgado\Desktop\TestXLS\TestXLS\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\joao.delgado\Desktop\TestXLS\TestXLS\obj\Debug\TestXLS.exe
+C:\Users\joao.delgado\Desktop\TestXLS\TestXLS\obj\Debug\TestXLS.pdb
